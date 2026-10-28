@@ -10,17 +10,7 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [
-      {
-        "id": 0,
-        "title": "New STRIDE diagram",
-        "diagramType": "STRIDE",
-        "placeholder": "New STRIDE diagram description",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
-        "version": "2.6.2",
-        "cells": []
-      }
-    ],
+    "diagrams": [],
     "diagramTop": 1,
     "reviewer": "Umer",
     "threatTop": 0
