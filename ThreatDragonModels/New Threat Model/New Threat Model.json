@@ -5,7 +5,7 @@
   "summary": {
     "title": "New Threat Model",
     "owner": "Nandhini",
-    "description": "Test",
+    "description": "Threat model for AI Tutor production deployment on AWS. Covers identity, CloudFront/WAF, application APIs, Lambda/ECS, OpenSearch Serverless, S3, DynamoDB, Amazon Bedrock, IAM, secrets, logging, trust boundaries and STRIDE threats.",
     "id": 0
   },
   "detail": {
